@@ -1,0 +1,1 @@
+Este conversor transfere as unidades de graus, minuto, segundo para coordenadas decimais e em seguida utiliza transformer() para aplicá-las no EPSG: 31980.
